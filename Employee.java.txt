@@ -1,4 +1,16 @@
 public class Employee {
+<<<<<<< HEAD
     private String name;
     private double salary;
 }
+=======
+
+    private int id;
+    private String name;
+
+    public Employee(int id, String name) {
+        this.id = id;
+        this.name = name;
+    }
+}
+>>>>>>> f37cf81 (added Employee file)
