@@ -1,5 +1,6 @@
 public class Employee {
 
+
     private String fullName;
     private double salary;
     private int id;
@@ -9,6 +10,7 @@ public class Employee {
     public Employee(int id, String fullName) {
         this.id = id;
         this.fullName =fullName;
+	
     }
 
 
