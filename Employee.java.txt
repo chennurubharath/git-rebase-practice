@@ -1,14 +1,10 @@
 public class Employee {
 
     private String name;
-<<<<<<< HEAD
     private double salary;
     private int id;
-
-=======
     private String department;
->>>>>>> 6022ad9 (add department field to EMployee by bharath)
-
+>>>
     public Employee(int id, String name) {
         this.id = id;
         this.name = name;
