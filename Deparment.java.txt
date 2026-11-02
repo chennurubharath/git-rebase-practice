@@ -1,0 +1,8 @@
+public class Department{
+
+private String departmentname:;
+private int deptid
+
+private double salary:
+
+}
